@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-slack-attachment",
   "hubot-jenkins-slack",
-  "hubot-jenkins"
+  "hubot-jenkins",
+  "hubot-ector"
 ]
